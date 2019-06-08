@@ -1,0 +1,34 @@
+.logo{
+	height: 100px;
+	background: red;
+}
+.red{
+	height: 1200px;
+	background: red;
+}
+.blue{
+	height: 200px;
+	background: blue;
+}
+.green{
+	height: 600px;
+	background: green;
+}
+.purple{
+	height: 100px;
+	background: purple;
+	border: 3px solid black;
+}
+.grey{
+	height: 50px;
+	background: dimgrey;
+}
+.cyan{
+	height: 300px;
+	background: blue;
+	border: 3px solid black;
+}
+body{
+	background-size: 100% 100%;
+	background-image: url(bg.png);
+}
